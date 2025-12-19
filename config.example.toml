@@ -1,0 +1,12 @@
+version = 1
+
+[[groups]]
+name = "default"
+wxwork_token = "2axxxxxx-6dxx-43xx-bxxc-xxxxxxxxxx0a"
+# days before expiration to trigger notification
+redline = 30
+sites = [
+    "www.baidu.com",
+    "expired.badssl.com",
+    "http.badssl.com:80"
+]

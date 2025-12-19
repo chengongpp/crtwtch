@@ -1,0 +1,6 @@
+config.toml
+.vscode/
+.idea/
+.DS_Store
+crtwtch.exe
+crtwtch
